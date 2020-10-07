@@ -14,4 +14,4 @@ For the purposes of the assignment we should both modify this line (line 7) and 
 Emma can modify this line.
 
 Jan can modify this line.
->>>>>>> my line : Jan
+>>>>>>> my line : Jan, Jan
